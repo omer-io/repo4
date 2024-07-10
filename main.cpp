@@ -9,8 +9,8 @@ int main() {
     cout << "\nEnter your age: ";
     cin >> your_age;
     cout << "\nYour age is " << your_age;
-    cout << "\nEnter your gender: ";
-    cin >> your_gender;
-    cout << "\nYour gender is: " << your_gender;
+    cout << "\nEnter your school name: ";
+    cin >> your_school;
+    cout << "\nYour gender is: " << your_school;
 
 }
